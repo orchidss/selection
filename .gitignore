@@ -1,0 +1,5 @@
+**.fits
+InputCatalogues/**.fits
+InputCatalogues/**.parquet
+Notebooks/eazy_input/*.cat
+InputCatalogues/photoz/WD10_Photoz_Combined_c_Sabine Bellstedt.parquet
