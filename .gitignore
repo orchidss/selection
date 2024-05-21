@@ -4,3 +4,6 @@ InputCatalogues/**.parquet
 InputCatalogues/photoz/*.parquet
 Notebooks/eazy_input/*.cat
 InputCatalogues/photoz/WD10_Photoz_Combined_c_Sabine Bellstedt.parquet
+InputCatalogues/optical/WD02_2p4.parquet
+InputCatalogues/optical/WD03_2p4.parquet
+InputCatalogues/optical/WD10_2p4.parquet
